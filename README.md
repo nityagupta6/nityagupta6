@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitya Gupta</h1>
-<h3 align="center">I'm a UI/UX Designer,a Developer and a Competitive Programming enthusiast!</h3>
+<h3 align="center">I'm a UI/UX Designer, a Developer and a Competitive Programming enthusiast!</h3>
 
 - 🌱 I’m currently learning **various TechStacks**
 
